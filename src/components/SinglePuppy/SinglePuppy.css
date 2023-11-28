@@ -1,0 +1,10 @@
+.img-single-puppy{
+  transition: transform 0.2s;
+  max-width: 300px;
+  max-height: 300px;
+  margin: 19px;
+}
+
+.img-single-puppy:hover{
+  transform: scale(1.125);
+}

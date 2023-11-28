@@ -1,0 +1,38 @@
+.navbar-top{
+  position: absolute;
+  padding: 0;
+  height: 53px;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 4;
+  background-color: #fff;
+}
+
+.navbar-contain{
+  padding: 0;
+  display: block;
+  float: left;
+  width: auto;
+  border: none;
+  outline: 0;
+}
+
+.navbar-button{
+  white-space: normal;
+  background-color: #fff;
+  padding: 16px;
+  float: left;
+  width: auto;
+  border: none;
+  display: block;
+  outline: 0;
+  text-decoration: none;
+  color: #000;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.navbar-button:hover{
+  background-color: #ddd;
+}

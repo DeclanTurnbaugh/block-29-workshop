@@ -1,0 +1,15 @@
+* {
+  font-family: "Segoe UI",Arial,sans-serif;
+}
+
+body{
+  background-color: lightblue;
+}
+
+.puppy-contain {
+  margin-top: 100px;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-evenly;
+  font-family: "Segoe UI",Arial,sans-serif;
+}
